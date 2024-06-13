@@ -11,33 +11,56 @@
 #### 功能介绍
 ##### 【代码结构与数据库截图】
 ![输入图片说明](https://foruda.gitee.com/images/1718286895065064460/6358f2d0_7960497.png "屏幕截图")
+
 ![输入图片说明](https://foruda.gitee.com/images/1718286908794809026/15e21680_7960497.png "屏幕截图")
 
 ##### 【功能详述】 
-#####一、管理端
+一、管理端
+
 1、登录
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287285052874086/a8d2456e_7960497.png "屏幕截图")
+
 2、用户管理
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287319537777380/cc6a635a_7960497.png "屏幕截图")
+
 3、商品类型管理
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287345562847054/4936a329_7960497.png "屏幕截图")
+
 4、拍卖商品管理
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287423302264577/7217c6d7_7960497.png "屏幕截图")
+
 5、历史竞拍管理
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287456558742204/ba63c37f_7960497.png "屏幕截图")
+
 6、系统管理
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287489040153952/a60aacc1_7960497.png "屏幕截图")
 
-#####二、用户端
+二、用户端
+
 1、登录
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287593202411108/6c89dc82_7960497.png "屏幕截图")
+
 2、首页
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287615149428071/e65aed02_7960497.png "屏幕截图")
+
 3、拍卖商品
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287663307098989/343e0df2_7960497.png "屏幕截图")
+
 4、竞拍公告
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287678173262281/a370f2d6_7960497.png "屏幕截图")
+
 5、留言反馈
+
 ![输入图片说明](https://foruda.gitee.com/images/1718287705357816432/0a25bce8_7960497.png "屏幕截图")
 
 #### 使用说明
